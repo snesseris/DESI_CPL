@@ -3,10 +3,10 @@ Here we present the MCMC codes and chains used in our analysis for [arXiv: 2503.
 
 The repo contains the following:
 1) In /data there are the Pantheon+ data needed in the analysis,
-2) The bigchain_*.zip files contain the chains used in the paper to make the plots, with the plots_CPL_et_al.nb Mathematica notebook (see also MCMC_CPL_Panthon_plus_v1.nb).
-3) The chains were created with the script_*sh wolfram scripts that were submitted via the script_*.sh scripts to a cluster to run.
+2) The bigchain_[xxx].zip files contain the chains used in the paper to make the plots, with the plots_CPL_et_al.nb Mathematica notebook (see also MCMC_CPL_Panthon_plus_v1.nb).
+3) The chains were created with the script_[xxx].sh wolfram scripts that were submitted via the script_[xxx].sh scripts to a cluster to run.
 
-To run the codes, you need to download everything in the same folder, make sure you have Mathematica (v14+) installed and make sure you edit any paths in the *.wls scripts if you get errors about not finding the files etc.
+To run the codes, you need to download everything in the same folder, make sure you have Mathematica (v14+) installed and make sure you edit any paths in the [xxx].wls scripts if you get errors about not finding the files etc.
 
 If you use any of the above, please cite the [paper](https://arxiv.org/abs/2503.22529), here's also the bib file:
 @article{Nesseris:2025lke,
