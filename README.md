@@ -6,6 +6,8 @@ The repo contains the following:
 2) The bigchain_*.zip files contain the chains used in the paper to make the plots, with the plots_CPL_et_al.nb Mathematica notebook (see also MCMC_CPL_Panthon_plus_v1.nb).
 3) The chains were created with the script_*sh wolfram scripts that were submitted via the script_*.sh scripts to a cluster to run.
 
+To run the codes, you need to download everything in the same folder, make sure you have Mathematica (v14+) installed and make sure you edit any paths in the *.wls scripts if you get errors about not finding the files etc.
+
 If you use any of the above, please cite the [paper](https://arxiv.org/abs/2503.22529), here's also the bib file:
 @article{Nesseris:2025lke,
     author = "Nesseris, Savvas and Akrami, Yashar and Starkman, Glenn D.",
@@ -21,3 +23,5 @@ If you use any of the above, please cite the [paper](https://arxiv.org/abs/2503.
     pages = "L041305",
     year = "2026"
 }
+
+Created by [Savvas Nesseris](https://members.ift.uam-csic.es/savvas.nesseris/), 2026. For any questions drop me a line at savvas.nesseris@csic.es
