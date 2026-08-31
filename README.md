@@ -9,6 +9,7 @@ The repo contains the following:
 To run the codes, you need to download everything in the same folder, make sure you have Mathematica (v14+) installed and make sure you edit any paths in the [xxx].wls scripts if you get errors about not finding the files etc.
 
 If you use any of the above, please cite the [paper](https://arxiv.org/abs/2503.22529), here's also the bib file:
+```
 @article{Nesseris:2025lke,
     author = "Nesseris, Savvas and Akrami, Yashar and Starkman, Glenn D.",
     title = "{What we have not learned about the dark energy equation of state}",
@@ -23,5 +24,4 @@ If you use any of the above, please cite the [paper](https://arxiv.org/abs/2503.
     pages = "L041305",
     year = "2026"
 }
-
-Created by [Savvas Nesseris](https://members.ift.uam-csic.es/savvas.nesseris/), 2026. For any questions drop me a line at savvas.nesseris@csic.es
+```
